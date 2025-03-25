@@ -101,7 +101,7 @@ Si se excede el límite de peticiones, se devolverá un error con un mensaje inf
 
 La documentación interactiva de la API está disponible en el siguiente enlace:
 
-[Swagger UI](http://tuproyecto.azurewebsites.net/swagger)
+[Swagger UI](https://test-store-adonet-api.azurewebsites.net/swagger/index.html)
 
 ## Cómo ejecutar el proyecto
 
